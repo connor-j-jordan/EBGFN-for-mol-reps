@@ -1,0 +1,20 @@
+# Numerical libraries
+numpy
+scipy
+pandas
+
+# ML/DL libraries
+torch
+torchtyping
+torch-geometric
+transformers
+networkx
+
+# Cheminformatics libraries
+rdkit
+selfies
+deepchem
+
+tqdm
+simple-parsing
+wandb
